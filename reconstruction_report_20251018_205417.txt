@@ -1,0 +1,15 @@
+--- RECONSTRUCTION REPORT ---
+
+[Original Fragment]
+> The future of AI archaeology lies in reconstructing lost digital memories.
+
+[AI-Reconstructed Text]
+> The future of AI archaeology lies in reconstructing lost digital memories.
+
+[Contextual Sources]
+* SMH meaning: https://www.dictionary.com/e/slang/smh/
+  - Definition of SMH (Shaking my head)
+* MySpace Top 8 feature: https://en.wikipedia.org/wiki/Myspace#Features
+  - Explains the 'Top 8' friends list drama
+* Chat slang meanings: https://en.wikipedia.org/wiki/Internet_slang
+  - Common internet abbreviations like G2G, TTYL
