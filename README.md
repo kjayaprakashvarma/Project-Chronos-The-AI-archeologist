@@ -23,7 +23,7 @@ git clone https://github.com/kjayaprakashvarma/Project-Chronos-The-AI-archeologi
 ## Create Environment File
 cp .env.example .env
 ```env
-req api keys
+GEMINI_API_KEY=your_google_gemini_api_key_here
 
 ```
 
@@ -34,14 +34,14 @@ req api keys
 The application requires proper environment variables for security and functionality.
 
 ### Required Environment Variables
-Create a `.env` file in the backend directory with:
+Create a `.env` file with:
 
 ```env
- 
+ GEMINI_API_KEY=your_google_gemini_api_key_here
 ```
 
 ## Getting gemini Token
-1. 
+1. GEMINI_API_KEY=your_google_gemini_api_key_here
 
 **Security Note**: Never commit `.env` files to version control!
 
@@ -50,6 +50,11 @@ Create a `.env` file in the backend directory with:
 1. Gemini
 
 ## Features:
+- Reconstructs missing or incomplete text fragments.  
+- Accepts input directly from the command line.  
+- Handles multiple types of text fragments.  
+- Outputs reconstructed text for user review.  
+- Can save results for further analysis.  
 
 
 ## Limitations & Enhancements
