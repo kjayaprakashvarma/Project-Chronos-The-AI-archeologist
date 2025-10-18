@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 venv/
 .env
 __pycache__/
 *.pyc
 *.txt
+=======
+venv/
+.env
+__pycache__/
+*.pyc
+*.txt
+>>>>>>> a4cba00746b6845424d179084353125665272f42
