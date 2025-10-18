@@ -37,7 +37,7 @@ The application requires proper environment variables for security and functiona
 Create a `.env` file in the backend directory with:
 
 ```env
- env file contents
+ 
 ```
 
 ## Getting gemini Token
@@ -45,20 +45,6 @@ Create a `.env` file in the backend directory with:
 
 **Security Note**: Never commit `.env` files to version control!
 
-
-## Tech Stack:
-
-- **Frontend**: 
-- **Backend**: 
-- **Data Sources**: 
-- **Model**:
-- **Deployment**:  
-
-## 🏗️ Architecture
-```
-
-
-```
 
 ## APIs Used
 1. Gemini
