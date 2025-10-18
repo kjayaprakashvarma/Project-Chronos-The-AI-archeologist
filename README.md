@@ -17,7 +17,7 @@
 ##  1. Clone and Setup
 ```bash
 git clone https://github.com/kjayaprakashvarma/Project-Chronos-The-AI-archeologist.git 
-x
+
 ```
 
 ## Create Environment File
